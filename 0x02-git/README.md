@@ -1,1 +1,1 @@
-"More on the basics and practice of Git*
+*More on the basics and practice of Git*
